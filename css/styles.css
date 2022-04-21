@@ -1,0 +1,32 @@
+body{
+    /* font-family: 'Roboto Mono', monospace; */
+    /* background-color: rgb(10, 10, 10); */
+    background-image: url(img/tauro.jpg);
+}
+h1,h2{
+    font-family: 'arial', cursive;
+    color: rgb(0, 0, 0);
+    
+}
+.smallContainer{
+    text-align: center;
+    margin-top: 10%;
+}
+.superbigContainer{
+    margin: 0-5%;
+}
+
+.bigContainer{
+    position: fixed;
+    bottom: 0;
+    /* justify-content: space-between; */
+}
+.contenedor{
+    display: inline-block;
+}
+.foto{
+    width: 250px;
+}
+.personalInfo{
+    
+}
